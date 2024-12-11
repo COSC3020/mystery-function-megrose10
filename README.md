@@ -3,7 +3,7 @@
 What does the `mystery()` function in the following piece of code do? Add your
 answer to this markdown file.
 
-This function first checks if there is only one element in an array, if there is only one element it returns that element. If there are more than one element it then takes off an element and assigns it to foo. If foo is more than the first element in the array it returns foo to the function again using recursion and checks the first condition again, if foo is less than the first element, it will return the first element in the array. 
+This function first checks if there is only one element in an array, if there is only one element it returns that element. If there are more than one element it then takes off an element and assigns it to foo. If foo is more than the first element in the array it returns foo to the function again using recursion and checks the first condition again, if foo is less than the first element, it will return the first element in the array. Given an array, this function will return the greatest element in the array. 
 
 
 
